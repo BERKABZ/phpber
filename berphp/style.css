@@ -1,0 +1,38 @@
+body {
+    background: #2980b9;
+    
+}
+
+#form {
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 350px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+input{
+    width: 100%;
+}
+
+
+#btn {
+    width: 355px;
+    padding: 10px;
+    background-color:cornflowerblue;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+a{
+    
+}
+
+#btn:hover {
+    background-color:darkblue;
+}
+
+
